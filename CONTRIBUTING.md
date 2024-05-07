@@ -1,13 +1,13 @@
-# Contribution Guidelines for the sas-econometrics-examples Repository
+# Contribution Guideline for the sas-econometrics-examples Repository
 
 ## Contribution Workflow
 
 1. **Initial Contribution to GitLab:**
-   - All contributions should be initially submitted to the team's GitLab repository. Contributors are encouraged to provide well-commented code, comprehensive documentation, and follow consistent naming conventions.
+   - All contributions should be initially submitted to the team's GitLab repository. Contributors are encouraged to provide well-commented code, and comprehensive documentation, and follow consistent naming conventions.
    - Make sure to run all necessary tests and provide testing documentation if applicable.
 
 2. **Repository Maintainer Review and Public Sync:**
-   - The repository maintainer will review the changes, update the changelog, and synchronize them to the public GitHub repository. Please note that acceptance and public synchronization are subject to review for consistency, quality, and adherence to the project's guidelines.
+   - The repository maintainer will review the changes, update the changelog, and synchronize them to the public GitHub repository (https://github.com/sassoftware/sas-econometrics-examples). Please note that acceptance and public synchronization are subject to review for consistency, quality, and adherence to the project's guidelines.
 
 ## Repository Structure
 ### Top-level directory layout
@@ -63,7 +63,7 @@ Houses various utilities and scripts that aid in the development, testing, or de
 ## Feedback and Improvement
 
 - Team members are encouraged to review, discuss, and provide constructive feedback on contributions made to the GitLab repository.
-- Please direct any questions or suggestions to the repository maintainer for clarification or assistance.
+- Please direct any questions or suggestions to the repository maintainer @Chuan Xu for clarification or assistance.
 
 ## Acknowledgment
 
