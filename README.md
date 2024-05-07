@@ -5,50 +5,54 @@ The repository serves as a valuable resource, specifically designed to store and
 
 ## Repository Structure
 ### Top-level directory layout
-.
-├── data                    
-├── examples                
-├── docs                     
-├── tools
-├── LICENSE
-├── CHANGELOG.md
-└── README.md
+    .
+    ├── data                   
+    ├── examples                   
+    ├── docs                    
+    ├── tools                  
+    ├── LICENSE                  
+    ├── CHANGELOG.md
+    └── README.md
 
 ### Data
 Contains datasets specifically curated for use with SAS Econometrics and SAS/ETS procedures. Ensure that all data is properly anonymized and follows data privacy standards before submission.
-.
-├── ...
-├── data                    
-│   ├── dynamiclinear   
-│   ├── ...                      
-└── ...
+
+    .
+    ├── ...
+    ├── data                   
+    │   ├── dynamiclinear          
+    │   ├── ...                      
+    └── ...
 
 ### Examples
 Includes a curated collection of examples demonstrating practical applications of specific SAS Econometrics and SAS/ETS procedures. Each example should be thoroughly documented, providing clear context, code comments, and an explanatory README file.
-.
-├── ...
-├── examples                
-│   ├── dynamiclinear
-│   ├── ...           
-└── ...
+
+    .
+    ├── ...
+    ├── examples                   
+    │   ├── dynamiclinear          
+    │   ├── ...                      
+    └── ...
 
 ### Docs
 Contains all documentation relevant to the SAS Econometrics and SAS/ETS Public Repository.
-.
-├── ...
-├── docs                    
-│   ├── dynamiclinear         
-│   ├── ...                     
-└── ...
+
+    .
+    ├── ...
+    ├── docs                   
+    │   ├── dynamiclinear          
+    │   ├── ...                      
+    └── ...
 
 ### Tools
 Houses various utilities and scripts that aid in the development, testing, or deployment of SAS Econometrics and SAS/ETS projects.
-.
-├── ...
-├── tools                    
-│   ├── dynamiclinear         
-│   ├── ...                     
-└── ...
+
+    .
+    ├── ...
+    ├── tools                   
+    │   ├── dynamiclinear          
+    │   ├── ...                      
+    └── ...
 
 ## Contribution Workflow
 
