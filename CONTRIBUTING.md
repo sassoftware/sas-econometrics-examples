@@ -51,7 +51,7 @@ Contains all documentation relevant to the SAS Econometrics and SAS/ETS Public R
     └── ...
 
 ### Tools
-Houses various utilities and scripts that aid in the development, testing, or deployment of SAS Econometrics and SAS/ETS projects.
+Houses various utilities and scripts that aid in showcasing the examples.
 
     .
     ├── ...

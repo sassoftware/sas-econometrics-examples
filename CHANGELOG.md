@@ -10,7 +10,7 @@ All notable changes to the SAS Econometrics and SAS/ETS Public Repository will b
   - Initial setup and configuration of the repository structure.
   - Created `data` directory for storing datasets used in examples and tutorials.
   - Created `examples` directory with initial example scripts demonstrating the use of SAS Econometrics and SAS/ETS products.
-  - Created `tools` directory containing utility scripts and tools to aid in showcasing examples.
+  - Created `tools` directory containing utility scripts and tools to aid in showcasing the examples.
   - Added `LICENSE` file to define the terms under which the repository's contents can be used.
   - Added `README.md` to provide an overview of the repository, its purpose, and guidance on how to contribute.
   - Established the initial `CHANGELOG.md` to track changes and updates to the repository.
