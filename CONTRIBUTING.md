@@ -21,7 +21,7 @@
     └── README.md
 
 ### Data
-Contains datasets specifically curated for use with SAS Econometrics and SAS/ETS procedures. Ensure that all data is properly anonymized and follows data privacy standards before submission.
+Contains datasets specifically curated for use with SAS Econometrics and SAS/ETS procedures. Ensure that all data is properly anonymized and follows data privacy standards before submission. Here is the [link](https://inside.sas.com/policies/third-party-data-handling-standard/) to the SAS third-party data usage policy.
 
     .
     ├── ...
