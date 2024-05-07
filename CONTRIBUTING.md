@@ -41,7 +41,7 @@ Includes a curated collection of examples demonstrating practical applications o
     └── ...
 
 ### Docs
-Contains all documentation relevant to the SAS Econometrics and SAS/ETS Public Repository.
+Contains all documentation relevant to the SAS Econometrics and SAS/ETS.
 
     .
     ├── ...
