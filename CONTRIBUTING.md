@@ -9,6 +9,25 @@
 2. **Repository Maintainer Review and Public Sync:**
    - The repository maintainer will review the changes, update the changelog, and synchronize them to the public GitHub repository (https://github.com/sassoftware/sas-econometrics-examples). Please note that acceptance and public synchronization are subject to review for consistency, quality, and adherence to the project's guidelines.
 
+## `.gitignore` Configuration
+
+To maintain the cleanliness of our repository and ensure that only relevant files are tracked by Git, a `.gitignore` file has been configured. 
+
+### Using the `.gitignore`:
+- **Public Ignore Rules:** The `.gitignore` file already contains a list of files and directories that are generally not necessary to track in a version control system (like compiled code, temporary files, etc.). These are applicable to all contributors.
+
+- **Adding Personal Ignore Rules:**
+If you need to ignore additional files or directories specific to your personal development environment, you can do so by following this simple format:
+
+    ```plaintext
+    ### PersonalSectionName ###
+    # Describe what you're ignoring (optional)
+    *.log
+    config/settings.local
+    ```
+
+**Note**: Please ensure that personal ignore rules are added under a clearly commented section named appropriately to avoid confusion with public rules. This helps maintain clarity and utility for all users of the repository.
+
 ## Repository Structure
 ### Top-level directory layout
     .
