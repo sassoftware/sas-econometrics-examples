@@ -4,6 +4,12 @@ All notable changes to the SAS Econometrics and SAS/ETS Public Repository will b
 
 ## [Unreleased]
 
+## [0.1.1] - 2024-05-20
+### Added
+- **Repository Wiki:** Launched a comprehensive Wiki section dedicated to enhancing community collaboration. This Wiki includes:
+  - **Contribution Guidelines:** Detailed guidelines to help contributors effectively participate and submit quality content.
+  - **Repository Structure Explanation:** A clear outline of the repository's organization to assist users in navigating and understanding where to find and place various resources.
+
 ## [0.1.0] - 2024-05-07
 ### Added
 - **Repository Initialization**
