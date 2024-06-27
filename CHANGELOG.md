@@ -7,12 +7,6 @@ All notable changes to the SAS Econometrics and SAS/ETS Public Repository will b
 - **Dataset:** `finitelearn.sas7bdat`, for the HMM Procedure example.
 - **Documentation:** Manuals for the HMM and MKTATTRIBUTION Procedures.
 
-## [0.1.1] - 2024-05-20
-### Added
-- **Repository Wiki:** Launched a comprehensive Wiki section dedicated to enhancing community collaboration. This Wiki includes:
-  - **Contribution Guidelines:** Detailed guidelines to help contributors effectively participate and submit quality content.
-  - **Repository Structure Explanation:** A clear outline of the repository's organization to assist users in navigating and understanding where to find and place various resources.
-
 ## [0.1.0] - 2024-05-07
 ### Added
 - **Repository Initialization**
@@ -29,9 +23,4 @@ All notable changes to the SAS Econometrics and SAS/ETS Public Repository will b
 
 ### Setup
 - Basic configuration files and environment setup for repository management.
-
-## [0.0.1] - 2024-03-26
-### Added
-- Repository created on GitLab.
-- Basic folder structure implemented (data, examples, docs, tools, LICENSE, README.md).
 
