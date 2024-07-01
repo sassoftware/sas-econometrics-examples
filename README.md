@@ -14,6 +14,7 @@ The repository serves as a valuable resource, specifically designed to store and
 ## Contents
 ### HMM Procedure
 - PDF manual in the `docs` folder.
+- SAS code for the 'Getting Started' example and four additional examples are located in the `examples` folder.
 - Example 20.4 utilizes `finitelearn.sas7bdat` for pretrained results. Use **learn in=finitelearn** to view results instantly.
 
 ### MARKETATTRIBUTION Procedure

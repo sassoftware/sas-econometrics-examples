@@ -6,6 +6,7 @@ All notable changes to the SAS Econometrics and SAS/ETS Public Repository will b
 ### Added
 - **Dataset:** `finitelearn.sas7bdat`, for the HMM Procedure example.
 - **Documentation:** Manuals for the HMM and MKTATTRIBUTION Procedures.
+- **Examples:** Five code examples for the HMM Procedure.
 
 ## [0.1.0] - 2024-05-07
 ### Added
